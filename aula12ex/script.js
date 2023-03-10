@@ -9,7 +9,7 @@ function carregar(){
      if(minuto < 10){
         minuto = '0' + minuto
      }
-    if(hora >= 0 && hora < 12) {
+    if(hora >= 6 && hora < 12) {
         img.src = 'fotomanha.png'
         document.body.style.background = '#e2cd9f'
     } else if(hora >= 12 && hora < 18) {
