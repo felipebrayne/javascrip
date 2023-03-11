@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(135, 206, 250, 0.671);
+}
+
+div{
+    width: 450px;
+    height: 450px;
+    background-color: rgba(158, 11, 158, 0.856);
+}
+
+button{
+    color: white;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    
+}
