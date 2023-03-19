@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+img{
+    height: 400px;
+    width: 250px;
+}
+.tudo{
+    height: 400px;
+    width: 250px;
+    margin: 50px auto;
+}
+
+.nada > ul{
+    display: flex;
+    height: 400px;
+    width: 250px;
+    
+}
+
